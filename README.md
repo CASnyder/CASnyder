@@ -6,4 +6,3 @@
 
 ## Currently...
 - :leaves: Working my way through MongoDB University
-- :space_invader: Looking to collaborate on 
