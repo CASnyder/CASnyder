@@ -1,8 +1,8 @@
 # Hi there, I'm Alex!
-- :nerd_face: Data Nerd
-- :man_playing_handball: Dodgeballer
-- :weight_lifting_man: Power Lifter
-- :microphone: Storyteller 
+- Data Nerd :nerd_face:
+- Dodgeballer :man_playing_handball:
+- Power Lifter :weight_lifting_man:
+- Storyteller :microphone:
 
 ## Currently...
-- :leaves: Working my way through MongoDB University
+- Working my way through MongoDB University :leaves:
